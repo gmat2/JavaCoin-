@@ -1,0 +1,2 @@
+# JavaCoin-
+Java CryptoCurrency Wallet
